@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+student_spending.db
+.venv/
+venv/
+.DS_Store
